@@ -3210,9 +3210,18 @@ a img.aligncenter {
   background-position: 50% 50%;
   background-size: cover;
 }
-.big-article-image-wrapper.jka-thumb {
-  background-image: url(../img/tryThis2.jpg);
+.big-article-image-wrapper.jka-thumb1 {
+  background-image: url(../img/startupExchangeMain.jpg);
 }
+
+.big-article-image-wrapper.jka-thumb2 {
+  background-image: url(../img/wholeFoods.jpg);
+}
+
+.big-article-image-wrapper.jka-thumb3 {
+  background-image: url(../img/stateFarmMain.jpg);
+}
+
 * {
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
