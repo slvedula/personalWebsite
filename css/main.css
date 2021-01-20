@@ -3289,3 +3289,12 @@ user agent stylesheet div {
   line-height: 40px;
   font-weight: 400;
 }
+
+.wholeFoodPDF {
+  align-self: center;
+  position: center;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding-right: 100px;
+  padding-left: 100px;
+}
